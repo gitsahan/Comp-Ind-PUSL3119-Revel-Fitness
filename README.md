@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Comp-Ind-PUSL3119-Revel-Fitness
+---------------------------------
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developer: Sahan Karunaratne.
+Project Type: Individual.
 
-## Available Scripts
+Important languages & technologies used:
+React JS, Node JS, Tailwind CSS, Google Firebase, Stripe payment gateway (API), Email JS (API), Google Maps (iFrame) ...
 
-In the project directory, you can run:
+Functionalities.
+01. Using the admin panel, web admin can register new members.
+02. Members can login to their accounts usings the credentials issued by the web admin.
+03. Members can select a preferred subscription plan.
+04. Members can select a preferred fitness instructor.
+05. Members can pay their monthly subscription fee online.
+06. Ability to vend the fitness related products (vitamins & supplements available at the fitness center) online.
+07. Members can buy fitness related products (vitamins & supplements) online using the web application.
+08. Members can download required diet plans as PDF files.
+09. Ability to get update on the current availability (crowded or not) of the fitness center in relatime.
+10. Web admin can check the payment records of the each member using the admin panel.
+10. Web admin can check the attendance records of the each member using the admin panel.
+11. Ability find the location of the fitness center using the embeded map (Google Maps).
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Supervisor:
+Ms. Dulanjali Wijesekara. - Lecturer (Faculty Of Computing, NSBM Green University, Colombo.)
