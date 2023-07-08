@@ -5,7 +5,7 @@ Developer: Sahan Karunaratne.
 Project Type: Individual.
 
 Languages & Technologies Used:
-React JS, Node JS, Tailwind CSS, Google Firebase, Stripe Payment Gateway (API), EmailJS (API), Google Maps (IFrame) ...
+React JS, Node JS, Tailwind CSS, Google Firebase, Stripe Payment Gateway (API), EmailJS (API), Google Maps (iFrame) ...
 
 Functionalities.
 01. Web admin can register new members.
