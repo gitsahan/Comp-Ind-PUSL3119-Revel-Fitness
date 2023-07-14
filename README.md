@@ -2,12 +2,17 @@
 ---------------------------------
 
 Developer: Sahan Karunaratne.
+
 Project Type: Individual.
+
+Year: 2022.
 
 Important languages & technologies used:
 React JS, Node JS, Tailwind CSS, Google Firebase, Stripe payment gateway (API), Email JS (API), Google Maps (iFrame) ...
 
+
 Functionalities.
+
 01. Using the admin panel, web admin can register new members.
 02. Members can login to their accounts usings the credentials issued by the web admin.
 03. Members can select a preferred subscription plan.
