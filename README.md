@@ -3,7 +3,7 @@
 
 Developer: Sahan Karunaratne.
 
-Project Type: Individual.
+Project Type: Individual Project.
 
 Year: 2022.
 
